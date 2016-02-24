@@ -1,0 +1,18 @@
+name: iChat
+main: me.iran.bukkit.iChat
+version: 1.01
+commands:
+  lockchat:
+    description: Locks Chat! Permission Node ichat.chat.lock (Staff)
+  lc:
+    description: Locks Chat! Permission Node ichat.chat.lock (Staff)
+  unlock:
+    description: Unlocks Chat! Permission ichat.chat.unlock (Staff)
+  ul:
+    description: Unlocks Chat! Permission Node ichat.chat.unlock (Staff)
+  cc:
+    description: Clears chat! Permission Node ichat.chat.clear (Staff)
+  clearchat:
+    description: Clears chat! Permission Node ichat.chat.clear (Staff)
+  slowchat:
+    description: slows chat
